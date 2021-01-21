@@ -6,6 +6,16 @@ prerequisite:
 * Java sdk 11  
 * Setup osgi plugin 
 
+
+To setup sdk 11;
+1. Open Eclipse
+2. Go to Window->Preference->Java->Compiler -> on Compiler Compliance level, Pick 11
+3. Go to Window->Preference-> Java -> Installed JRE -> pick jdk 11 or higher(make sure it is installed in your computer)
+
+  If jdk 11 or higher not available-> install and download jdk 11 --> then go to window->preference->Java->Installed JRE->And add new
+->Standard VM->Click Directory->point to your jdk 11 installation file(usually in program files/java/jdk11 etc) and click  finish
+	
+
 # TO setup plugin
 
 1. Choose 'Window' -> 'Preferences' menu from Eclipse.
