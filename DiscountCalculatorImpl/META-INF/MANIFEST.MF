@@ -4,7 +4,7 @@ Bundle-Name: Impl
 Bundle-SymbolicName: DiscountCalculatorImpl
 Bundle-Version: 1.0.0.qualifier
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Import-Package: discountcalculator,
  org.osgi.framework;version="1.3.0"
 Service-Component: META-INF/component.xml
