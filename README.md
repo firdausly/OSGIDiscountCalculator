@@ -3,10 +3,10 @@
 
 prerequisite:
 * Eclipse 
-* Java sdk 11 
+* Java sdk 11  
+* Setup osgi plugin 
 
 # To run:
  * -import All project
- * -Setup osgi plugin 
  * -run launcher
 
