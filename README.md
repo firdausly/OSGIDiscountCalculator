@@ -15,7 +15,8 @@ prerequisite:
 5. Click on 'Ok' button.
 
 ## if the plugin is not available in /plugin/eclipses
-download from http://download.eclipse.org/releases/2019-09/201909181001/plugins/org.eclipse.osgi_3.15.0.v20190830-1434.jar and put in plugin folder and repeat the steps
+download from http://download.eclipse.org/releases/2019-09/201909181001/plugins/org.eclipse.osgi_3.15.0.v20190830-1434.jar and put in plugin folder and 
+repeat the steps 4
 
 6. The OSGi runtime framework bundle gets added to the library 'Equinox'.
 
